@@ -1,0 +1,166 @@
+{
+  "groceries": [
+    {
+      "id": "2",
+      "groceryName": "Banana",
+      "groceryQuantity": "10",
+      "groceryPrice": "0.50",
+      "groceryDescription": "Ripe, yellow bananas",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "3",
+      "groceryName": "Milk",
+      "groceryQuantity": "2",
+      "groceryPrice": "3.00",
+      "groceryDescription": "1 gallon of whole milk",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "4",
+      "groceryName": "Bread",
+      "groceryQuantity": "1",
+      "groceryPrice": "2.50",
+      "groceryDescription": "Freshly baked bread",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "5",
+      "groceryName": "Eggs",
+      "groceryQuantity": "1 dozen",
+      "groceryPrice": "2.50",
+      "groceryDescription": "Farm-fresh eggs",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "6",
+      "groceryName": "Tomato",
+      "groceryQuantity": "3",
+      "groceryPrice": "1.00",
+      "groceryDescription": "Ripe, red tomatoes",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "7",
+      "groceryName": "Potato",
+      "groceryQuantity": "5 lbs",
+      "groceryPrice": "2.00",
+      "groceryDescription": "Fresh, organic potatoes",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "8",
+      "groceryName": "Orange",
+      "groceryQuantity": "8",
+      "groceryPrice": "1.20",
+      "groceryDescription": "Juicy oranges",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "9",
+      "groceryName": "Onion",
+      "groceryQuantity": "3 lbs",
+      "groceryPrice": "1.50",
+      "groceryDescription": "Fresh, white onions",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "10",
+      "groceryName": "Carrot",
+      "groceryQuantity": "2 lbs",
+      "groceryPrice": "1.00",
+      "groceryDescription": "Crunchy carrots",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "11",
+      "groceryName": "Chicken",
+      "groceryQuantity": "1 lb",
+      "groceryPrice": "5.00",
+      "groceryDescription": "Fresh chicken breast",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "12",
+      "groceryName": "Pasta",
+      "groceryQuantity": "1 lb",
+      "groceryPrice": "1.50",
+      "groceryDescription": "Italian pasta",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "13",
+      "groceryName": "Rice",
+      "groceryQuantity": "5 lbs",
+      "groceryPrice": "4.00",
+      "groceryDescription": "Long grain rice",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "14",
+      "groceryName": "Cheese",
+      "groceryQuantity": "1 lb",
+      "groceryPrice": "3.50",
+      "groceryDescription": "Cheddar cheese",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "15",
+      "groceryName": "Yogurt",
+      "groceryQuantity": "500g",
+      "groceryPrice": "2.00",
+      "groceryDescription": "Greek yogurt",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "16",
+      "groceryName": "Coffee",
+      "groceryQuantity": "12 oz",
+      "groceryPrice": "6.00",
+      "groceryDescription": "Medium roast coffee beans",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "17",
+      "groceryName": "Tea",
+      "groceryQuantity": "100 tea bags",
+      "groceryPrice": "3.50",
+      "groceryDescription": "Assorted tea flavors",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "18",
+      "groceryName": "Salmon",
+      "groceryQuantity": "1 lb",
+      "groceryPrice": "8.00",
+      "groceryDescription": "Fresh salmon fillet",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "19",
+      "groceryName": "Avocado",
+      "groceryQuantity": "3",
+      "groceryPrice": "1.50",
+      "groceryDescription": "Ripe avocados",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "20",
+      "groceryName": "Lettuce",
+      "groceryQuantity": "1 head",
+      "groceryPrice": "1.00",
+      "groceryDescription": "Fresh lettuce",
+      "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+    },
+    {
+      "id": "91fd",
+      "data": {
+        "groceryName": "wheat flour",
+        "groceryQuantity": "2",
+        "groceryPrice": "1",
+        "groceryDescription": "2 kg Atta",
+        "groceryImage": "https://m.media-amazon.com/images/I/71uNs9THtXL.jpg"
+      }
+    }
+  ]
+}
